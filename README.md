@@ -1,2 +1,3 @@
 # ttbot
 un bot mas de twitter...
+empezando..
